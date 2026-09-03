@@ -28,6 +28,11 @@ Priyanka C
 
 
 ## Activity 3 — Git and GitHub
+
+# Portfolio111
+
+My name is Priyanka C, and I am a B.Tech Computer Science and Engineering student. I am interested in programming, software development, and learning new technologies. This repository is part of my engineering portfolio and contains my programming activities, projects, and work completed during my course.
+
 ### Skills
 
 Learning Python
