@@ -25,3 +25,18 @@ java Test
 
 ## Author
 Priyanka C
+
+
+## Activity 3 — Git and GitHub
+### Skills
+
+Learning Python
+
+### Interests
+
+Cloud computing
+
+### Interests
+
+Cloud computing
+
