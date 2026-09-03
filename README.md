@@ -36,7 +36,7 @@ Learning Python
 
 Cloud computing
 
-### Interests
+### Goal
 
-Cloud computing
+Contribute to open source
 
